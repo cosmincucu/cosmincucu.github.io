@@ -11,15 +11,12 @@ github_username:  cosmincucu
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%a, %b %d, %y"
+  date_format: "%b %d, %y"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.html
-
-  disqus:
-    shortname: cosmin_cucu
 
 # Build settings
 markdown: kramdown
