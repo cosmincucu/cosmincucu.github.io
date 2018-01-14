@@ -8,6 +8,16 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: cosmin_cucu
 github_username:  cosmincucu
 
+# Footer links
+
+footer-links:
+  email: cosmincucu@yahoo.com
+  facebook: cosmincucu
+  flickr: 
+  github: cosmincucu
+  linkedin: cosmin-cucu-33301222
+  twitter: cosmin_cucu
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
